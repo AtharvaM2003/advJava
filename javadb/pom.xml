@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>org.mongodb</groupId>
+    <artifactId>mongodb-driver-sync</artifactId>
+    <version>3.12.11</version> <!-- Adjust the version to your needs -->
+</dependency>

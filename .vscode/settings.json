@@ -2,6 +2,8 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "mysql-connector-j-8.1.0.jar"
-    ]
+        "mysql-connector-j-8.1.0.jar",
+        "c:\\Users\\Atharva M\\Downloads\\mongo-java-driver-3.4.3-javadoc.jar"
+    ],
+    "maven.view": "flat"
 }
